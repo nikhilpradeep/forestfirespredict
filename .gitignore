@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Flask
+.flaskenv
+instance/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Test/build artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
